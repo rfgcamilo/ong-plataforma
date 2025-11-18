@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#f0f4ff"/>
+  <rect x="40" y="40" width="720" height="420" rx="12" fill="#dfe8ff" stroke="#0E4DA4"/>
+  <text x="400" y="260" text-anchor="middle" font-family="Arial" font-size="36" fill="#0E4DA4">Projeto Social</text>
+</svg>
